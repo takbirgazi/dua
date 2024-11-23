@@ -7,7 +7,7 @@ const ContentTopBar = () => {
         <div className="p-5 flex justify-between items-center">
             <div className='w-10/12 flex justify-between items-center'>
                 <h2 className="text-2xl text-dark-text">Duas Page</h2>
-                <div className="flex ">
+                <div className="lg:flex hidden ">
                     <input className="placeholder:text-mute-grey  px-5 py-2 bg-white shadow-sm border focus:border-[#1fa45b] outline-none rounded" type="text" placeholder="Search by Dua Name" />
                     <button className="-ml-9">
                         <figure>

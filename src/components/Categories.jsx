@@ -14,7 +14,7 @@ const Categories = () => {
             <div className="w-full pt-4 px-4">
                 <input className="w-full placeholder:text-mute-grey  px-5 py-3 bg-white shadow-sm border focus:border-[#1fa45b] outline-none rounded" type="text" placeholder="Search Categories" />
             </div>
-            <div className="p-4 overflow-scroll">
+            <div className="p-4 my-5 max-h-[600px] overflow-y-auto rounded">
                 <div className="rounded">
                     <div onClick={() => setActiveCat(!activeCat)} className="hover:bg-[#e8f0f5] flex justify-between items-center px-2 cursor-pointer">
                         <div className="inline-flex gap-3 items-center justify-start">
