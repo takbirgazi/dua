@@ -16,7 +16,7 @@ const MainContent = () => {
             <div className='flex items-center w-full rounded-lg p-5 bg-white'>
                 <p className='font-semibold'><span className='text-[#1fa45b]'>Section:</span> <span>The servant is dependent on his Lord</span> </p>
             </div>
-            <div className='w-full flex flex-col gap-5 py-5 max-h-[600px] overflow-y-auto rounded'>
+            <div className='w-full flex flex-col gap-5 py-5 max-h-[700px] overflow-y-auto rounded'>
 
                 <div className='w-full rounded-lg p-5 bg-white'>
                     <div className='w-full flex gap-5 items-center'>

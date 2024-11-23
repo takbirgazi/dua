@@ -14,7 +14,7 @@ import ruqyah from '@/assets/images/icons/ruqyah.svg'
 const LeftSidebar = () => {
     return (
         <div className="r">
-            <div className="flex flex-col justify-between items-center gap-10 w-full rounded-3xl bg-white py-5 max-h-[1000px] overflow-y-auto">
+            <div className="flex flex-col justify-between items-center gap-10 w-full rounded-3xl bg-white py-5 h-[800px] overflow-y-auto">
                 <Link href="/">
                     <figure>
                         <Image src={duaLogo} alt="Logo" />
