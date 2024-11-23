@@ -2,7 +2,7 @@
 
 A modern, responsive Dua application built with Next Js and Tailwind CSS
 
-[Explore Dua]()
+[Explore Dua](https://dua-gamma.vercel.app)
 
 ![Dua](./src/assets/images/duaScreenshot.png)
 
